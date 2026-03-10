@@ -25,14 +25,14 @@ Estou em transição de carreira, trazendo uma bagagem diversificada em design e
 
 | Status do Perfil | Linguagens mais usadas |
 | :--- | :--- |
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=radical"/> |
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoNeto0&layout=compact&langs_count=7&theme=radical"/> |
 
 ---
 
 ### 🧪 Projetos em Destaque
 
-* **[Freelancer Calculator](link-do-repositorio):** Script em Python para cálculo de taxas e geração de relatórios de orçamentos.
-* **[Projeto Web X](link-do-repositorio):** Descrição breve de uma aplicação web que você desenvolveu.
+* **[Freelancer Calculator](link-do-repositorio):
+* **[Projeto Web X](link-do-repositorio):
 
 ---
 
