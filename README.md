@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá, eu sou o [Luciano Neto]! 👋
 
-<!--
-**LucianoNeto0/LucianoNeto0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Estudante de Engenharia de Software | Desenvolvedor Python & Web
 
-Here are some ideas to get you started:
+Estou em transição de carreira, trazendo uma bagagem diversificada em design e gestão para o mundo do desenvolvimento. Atualmente focado em dominar o ecossistema Python e construir soluções web eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens e Frameworks:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+**Ferramentas e Ambiente:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub (O efeito Dashboard)
+
+| Status do Perfil | Linguagens mais usadas |
+| :--- | :--- |
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=radical"/> |
+
+---
+
+### 🧪 Projetos em Destaque
+
+* **[Freelancer Calculator](link-do-repositorio):** Script em Python para cálculo de taxas e geração de relatórios de orçamentos.
+* **[Projeto Web X](link-do-repositorio):** Descrição breve de uma aplicação web que você desenvolveu.
+
+---
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](URL_DO_SEU_LINKEDIN)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](URL_DO_SEU_FIVERR)
