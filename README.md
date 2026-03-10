@@ -1,4 +1,4 @@
-# Olá, eu sou o [Luciano Neto]! 👋
+# Olá, eu sou o Luciano Neto! 👋
 
 ### 🚀 Estudante de Engenharia de Software | Desenvolvedor Python & Web
 
