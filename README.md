@@ -1,8 +1,8 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Luciano Neto! 👋
 
 ### 🚀 Software Engineering Student | Python & Web Developer
 
-I am a first-year **Software Engineering** student with a solid background in **Graphic Design** and **Video Editing**. I am currently focusing on building robust backend solutions with **Python** and modern, responsive **Web** interfaces.
+I am **Software Engineering** student with a solid background in **Graphic Design** and **Video Editing**. I am currently focusing on building robust backend solutions with **Python** and modern, responsive **Web interfaces**.
 
 ---
 
@@ -29,13 +29,6 @@ I am a first-year **Software Engineering** student with a solid background in **
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" width="100%">
 </div>
-
----
-
-### 🧪 Key Projects
-
-* **[Freelancer Calculator](https://github.com/YOUR_GITHUB_USERNAME/repo-name):** A Python automation tool designed to help freelancers calculate rates and generate business reports.
-* **[Portfolio Project](https://github.com/YOUR_GITHUB_USERNAME/repo-name):** This GitHub profile dashboard, showcasing technical skills and real-time statistics.
 
 
 ---
