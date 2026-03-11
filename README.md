@@ -1,61 +1,48 @@
-<div align="center">
-  <h1>Hi, I'm [Your Name]! 👋</h1>
-  <p>Software Engineering Student | Python & Web Developer | Tech Enthusiast</p>
-  
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="YOUR_FIVERR_URL">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white">
-  </a>
-</div>
+# Hi there, I'm [Your Name]! 👋
 
-<br>
+### 🚀 Software Engineering Student | Python & Web Developer
 
-### 🚀 About Me
-I am a 1st-year **Software Engineering** student transitioning from a diverse background in **Graphic Design** and **Video Editing** into the world of development. Currently focusing on mastering the **Python** ecosystem and building efficient **Web** solutions. 
-
-I'm a heavy **Linux** user, running **CachyOS** (Arch-based) on my Positivo R15M setup to get the best performance for coding and game logic.
+I am a first-year **Software Engineering** student with a solid background in **Graphic Design** and **Video Editing**. I am currently focusing on building robust backend solutions with **Python** and modern, responsive **Web** interfaces.
 
 ---
 
 ### 🛠️ Toolbox (Technologies & Environment)
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **Environment** | ![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) |
+
+---
+
+### 📊 GitHub Dashboard
+
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <br>
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/CachyOS-004488?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" width="100%">
 </div>
 
 ---
 
-### 📊 GitHub Stats (Dashboard Mode)
+### 🧪 Key Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="100%">
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=radical" width="100%">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" width="100%">
+* **[Freelancer Calculator](https://github.com/YOUR_GITHUB_USERNAME/repo-name):** A Python automation tool designed to help freelancers calculate rates and generate business reports.
+* **[Portfolio Project](https://github.com/YOUR_GITHUB_USERNAME/repo-name):** This GitHub profile dashboard, showcasing technical skills and real-time statistics.
 
 ---
 
-### 🧪 Featured Project
-* **[Freelancer Calculator](LINK_TO_REPO):** A Python-based automation tool for calculating service rates and generating professional reports.
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_LINK)
 
 ---
 
