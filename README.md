@@ -29,11 +29,3 @@ I am **Software Engineering** student with a solid background in **Graphic Desig
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" width="100%">
 </div>
-
-
----
-
-### 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](URL_DO_SEU_LINKEDIN)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](URL_DO_SEU_FIVERR)
