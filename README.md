@@ -43,20 +43,19 @@ Features include hourly rate calculation, automatic 20% urgency fee, `.txt` file
 A 2D precision platformer game developed with **Unity 6 and C#**.  
 The player must navigate through obstacles, collect coins, earn points, and reach the flag to advance to the next level.
 
-➡️ [View Repository](https://github.com/LucianoNeto0/FleaJump)  
-*(Update this link once you create the repository)*
+➡️ [View Repository](https://github.com/LucianoNeto0/FleaJump)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoNeto0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoNeto0&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LucianoNeto0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoNeto0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LucianoNeto0&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=LucianoNeto0&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
