@@ -1,22 +1,22 @@
-<h1 align="center">Olá, eu sou o Luciano Cardoso 👋</h1>
+<h1 align="center">Hi, I'm Luciano Cardoso 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software | Desenvolvimento Web & Games
+  Software Engineering Student | Web Development & Game Development
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-- 🎓 Cursando **Engenharia de Software** na Faculdade Estácio
-- 💻 Foco atual: Python, JavaScript, C# e desenvolvimento de jogos
-- 🎮 Desenvolvendo o jogo **FleaJump** (plataforma de precisão 2D com Unity 6)
-- 🔍 Buscando oportunidade de **estágio ou trainee** em desenvolvimento de software
-- 🌱 Sempre aprendendo e evoluindo
+- 🎓 Currently studying **Software Engineering** at Faculdade Estácio
+- 💻 Focused on Python, JavaScript, C# and game development
+- 🎮 Developing **FleaJump**, a 2D precision platformer using Unity 6
+- 🔍 Looking for an **internship or trainee** opportunity in software development
+- 🌱 Always learning and improving
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -31,20 +31,20 @@
 
 ---
 
-### 📌 Projetos em Destaque
+### 📌 Featured Projects
 
 #### 🧮 Freelance Calculator
-Aplicação de terminal desenvolvida em **Python** para freelancers calcularem orçamentos.  
-Inclui cálculo por taxa horária, taxa de urgência automática (20%), exportação em arquivo `.txt` e persistência de dados.
+A terminal-based application built with **Python** that helps freelancers calculate project budgets.  
+Features include hourly rate calculation, automatic 20% urgency fee, `.txt` file export, and data persistence.
 
-➡️ [Ver repositório](https://github.com/LucianoNeto0/freelance-calculator)
+➡️ [View Repository](https://github.com/LucianoNeto0/freelance-calculator)
 
-#### 🎮 FleaJump (em desenvolvimento)
-Jogo de plataforma de precisão 2D criado com **Unity 6 + C#**.  
-O jogador precisa atravessar obstáculos, coletar moedas, acumular pontos e chegar à bandeira para avançar de fase.
+#### 🎮 FleaJump (In Development)
+A 2D precision platformer game developed with **Unity 6 and C#**.  
+The player must navigate through obstacles, collect coins, earn points, and reach the flag to advance to the next level.
 
-➡️ [Ver repositório](https://github.com/LucianoNeto0/FleaJump)  
-*(Atualize o link quando criar o repositório)*
+➡️ [View Repository](https://github.com/LucianoNeto0/FleaJump)  
+*(Update this link once you create the repository)*
 
 ---
 
@@ -61,7 +61,7 @@ O jogador precisa atravessar obstáculos, coletar moedas, acumular pontos e cheg
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-neto-1a31371a0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianocr.neto0@gmail.com)
