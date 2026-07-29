@@ -47,19 +47,6 @@ The player must navigate through obstacles, collect coins, earn points, and reac
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucianoNeto0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoNeto0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LucianoNeto0&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-neto-1a31371a0)
