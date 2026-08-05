@@ -33,12 +33,17 @@
 
 ### 📌 Featured Projects
 
-#### 🧮 Freelance Calculator
-Budget calculator for freelancers.  
-Originally developed in **Python** (terminal version) and later rebuilt as a web application using **HTML, CSS, and JavaScript**.  
-Features include hourly rate calculation, automatic 20% urgency fee, and an interactive interface.
+#### 🧮 Freelance Calculator (Python)
+Terminal-based budget calculator for freelancers developed in **Python**.  
+Features include hourly rate calculation, automatic 20% urgency fee, `.txt` file export, and data persistence.
 
 ➡️ [View Repository](https://github.com/LucianoNeto0/freelance-calculator)
+
+#### 🧮 Freelance Calculator (Web Version)
+Web version of the budget calculator rebuilt with **HTML, CSS, and JavaScript**.  
+Includes hourly rate calculation, automatic 20% urgency fee, and an interactive interface.
+
+➡️ [View Repository](https://github.com/LucianoNeto0/calculadora-freelancer-js)
 
 #### 🎮 FleaJump (In Development)
 A 2D precision platformer game developed with **Unity 6 and C#**.  
