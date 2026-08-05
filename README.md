@@ -34,8 +34,9 @@
 ### 📌 Featured Projects
 
 #### 🧮 Freelance Calculator
-A terminal-based application built with **Python** that helps freelancers calculate project budgets.  
-Features include hourly rate calculation, automatic 20% urgency fee, `.txt` file export, and data persistence.
+Budget calculator for freelancers.  
+Originally developed in **Python** (terminal version) and later rebuilt as a web application using **HTML, CSS, and JavaScript**.  
+Features include hourly rate calculation, automatic 20% urgency fee, and an interactive interface.
 
 ➡️ [View Repository](https://github.com/LucianoNeto0/freelance-calculator)
 
