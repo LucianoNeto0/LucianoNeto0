@@ -1,59 +1,64 @@
-<h1 align="center">Hi, I'm Luciano Cardoso 👋</h1>
+# Hi, I'm Luciano Cardoso
 
-<p align="center">
-  Software Engineering Student | Web Development & Game Development
-</p>
+**Software Engineering Student | AI Builder in development | GenAI, Automation & Product Development**
 
----
+I am a Software Engineering student at Faculdade Estácio, building practical projects that combine software development, artificial intelligence and automation. I enjoy turning ideas into functional tools, testing fast and learning by shipping.
 
-### 🚀 About Me
+Currently, my portfolio focuses on:
 
-- 🎓 Currently studying **Software Engineering** at Faculdade Estácio
-- 💻 Focused on Python, JavaScript, C# and game development
-- 🎮 Developing **FleaJump**, a 2D precision platformer using Unity 6
-- 🔍 Looking for an **internship or trainee** opportunity in software development
-- 🌱 Always learning and improving
+- Integrating LLMs into real applications.
+- Designing structured prompts and JSON-based AI outputs.
+- Building automation flows and AI-assisted features.
+- Developing web and Android products with modern TypeScript tooling.
+- Organizing data, validating inputs and improving operational processes.
 
----
+## Featured Projects
 
-### 🛠️ Tech Stack
+### [Grimório — AI-powered RPG Character Builder](https://github.com/LucianoNeto0/Grimorio)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+A web and Android application for creating and managing RPG character sheets. It integrates **Google Gemini** to generate structured characters from a short idea, RPG system and level.
 
----
+- Structured system prompts and JSON schema for consistent generation.
+- Zod validation for inputs and AI responses.
+- Redis/Upstash rate limiting by IP and global quota.
+- Web deployment with Vercel.
+- Android packaging with Capacitor and GitHub Actions.
+- Separate web and APK builds to keep AI secrets outside the client.
 
-### 📌 Featured Projects
+**Stack:** TypeScript, React, TanStack Start, Vite, Tailwind CSS, Google Gemini, Zod, Redis/Upstash, Vercel and Capacitor.
 
-#### 🧮 Freelance Calculator (Python)
-Terminal-based budget calculator for freelancers developed in **Python**.  
-Features include hourly rate calculation, automatic 20% urgency fee, `.txt` file export, and data persistence.
+### [C.H.A.R.L.E.S. — Local AI Assistant](https://github.com/LucianoNeto0/C.H.A.R.L.E.S-AI)
 
-➡️ [View Repository](https://github.com/LucianoNeto0/freelance-calculator)
+A Python conversational assistant integrated with **Ollama and Gemma**. It interprets structured model responses to separate regular conversation, terminal commands and operating-system automation actions.
 
-#### 🧮 Freelance Calculator (Web Version)
-Web version of the budget calculator rebuilt with **HTML, CSS, and JavaScript**.  
-Includes hourly rate calculation, automatic 20% urgency fee, and an interactive interface.
+- Persistent conversation memory stored as JSON.
+- File and folder automation.
+- Website and application launching.
+- Explicit confirmation before terminal command execution.
+- Timeout and output limits for command execution.
 
-➡️ [View Repository](https://github.com/LucianoNeto0/calculadora-freelancer-js)
+**Stack:** Python, Ollama, Gemma, Requests, JSON, subprocess, pathlib and shlex.
 
-#### 🎮 FleaJump (In Development)
-A 2D precision platformer game developed with **Unity 6 and C#**.  
-The player must navigate through obstacles, collect coins, earn points, and reach the flag to advance to the next level.
+### [Freelance Calculator — Python](https://github.com/LucianoNeto0/freelance-calculator) · [Web Version](https://github.com/LucianoNeto0/calculadora-freelancer-js)
 
-➡️ [View Repository](https://github.com/LucianoNeto0/FleaJump)
+A practical budgeting tool for freelancers, first built in Python and later rebuilt for the web with HTML, CSS and JavaScript. It includes hourly-rate calculation, a 20% rush fee, TXT export, data persistence and an interactive interface.
 
----
+## Technical Skills
 
-### 📫 Contact
+**AI & GenAI:** Ollama, Gemma, Google Gemini, LLM integration, structured prompting, JSON schemas and AI-assisted generation<br>
+**Languages:** Python, TypeScript, JavaScript, C#, HTML and CSS<br>
+**Web:** React, TanStack Start, Vite, Tailwind CSS, Zod and API integration<br>
+**Delivery:** Git, GitHub, Vercel, Redis/Upstash, Capacitor, GitHub Actions and Vitest<br>
+**Foundations:** Software engineering, object-oriented programming, logic, automation and data organization
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-neto-1a31371a0)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianocr.neto0@gmail.com)
+## About Me
+
+- 🎓 Studying Software Engineering at Faculdade Estácio.
+- 🧩 Interested in AI Builder roles, GenAI products and process automation.
+- 🛠️ Learning by building and documenting real projects.
+- 📍 Based in Caruaru, Pernambuco, Brazil.
+- 🌐 English: Intermediate.
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-neto-1a31371a0) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianocr.neto0@gmail.com) [![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucianoNeto0)
